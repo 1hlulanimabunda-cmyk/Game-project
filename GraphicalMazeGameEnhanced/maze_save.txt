@@ -1,0 +1,19 @@
+2
+8,8,1
+true
+0
+3
+6,7,2
+1,5,0
+5,2,3
+WWWWWWWWWW
+W...WM...W
+W.W...WWTW
+WTWWW.W..W
+W..GW.W.WW
+WWM.W....W
+W.WWWWWMWW
+WTT...W..W
+WWWWW.W.PW
+WWWWWWWWWW
+Escape to the exit.
